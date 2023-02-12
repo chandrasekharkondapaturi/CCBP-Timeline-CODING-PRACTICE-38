@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.mainBg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.chronoDiv {
+  width: 90vw;
+  height: 75vh;
+}

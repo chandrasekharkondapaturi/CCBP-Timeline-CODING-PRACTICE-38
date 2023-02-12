@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.projectImg {
+  width: 320px;
+}
+.courseDiv {
+  color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 30vw;
+}
+a {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+}
+.linkDiv {
+  width: 100%;
+  text-align: left;
+}
